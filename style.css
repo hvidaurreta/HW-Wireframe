@@ -1,0 +1,75 @@
+/** 
+*HV layout
+**/
+
+* {
+    box-sizing: border-box;
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body   {
+    background-color: gray;
+    color: gray; 
+}
+
+header {
+    background-color: gainsboro;
+    margin: 10px 20px 10px 20px;
+    padding: 20px;
+}
+
+nav {
+    background-color: gainsboro;
+    margin: 10px 20px 10px 20px;
+    padding: 20px;
+}
+
+section {
+    background-color: gainsboro;
+    margin: 10px 20px 10px 20px;
+    height: 100%;
+    width: 50%;
+    float: left;
+    }
+
+aside  {
+    background-color: gainsboro;
+    margin: 10px 20px 10px 20px;
+
+    float: left;
+}
+
+footer {
+    clear: both;
+    overflow: auto;
+    background-color: gainsboro;
+    margin: 10px 20px 10px 20px;
+    padding: 20px;
+}
+
+article {
+    clear: both;
+    overflow: auto;
+    background-color: gray;
+    color: gainsboro;
+    margin: 10px 20px 10px 20px;
+    height: 100%;
+}
+
+#aches {
+    background-color: gainsboro;
+    color: gray;
+    margin: 10px 20px 10px 20px;
+    padding: 20px;
+    width: 88%;
+    }
+
+#pee {
+    background-color: gainsboro;
+    color: gray;
+    margin: 10px 20px 10px 20px;
+    padding: 20px;
+    width: 88%;
+}
+
